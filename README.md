@@ -102,7 +102,7 @@ session.question('Summarize this paper and your anwsers above, then translate th
 ![alt](webui.png)
 1. Install gradio in your python environment.
 ```
-pip install gradio
+pip install gradio==3.15.0
 ```
 2. Run gui.py. The link to the web page is output in the console.
 ```
